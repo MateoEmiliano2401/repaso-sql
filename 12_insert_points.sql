@@ -1,6 +1,6 @@
 \c new_school
 DELETE FROM points;
-INSERT INTO points (count, month, subjects_id)
+INSERT INTO points (count, month, student_id)
 VALUES (2,10,1),
         (3,10,2),
         (5,10,3),

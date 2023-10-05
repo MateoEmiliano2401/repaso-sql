@@ -5,7 +5,7 @@ CREATE TABLE points(
     month INTEGER,
 
     id SERIAL PRIMARY KEY,
-    student_id INTEGER 
+    student_id INTEGER, 
 
     FOREIGN KEY (student_id) REFERENCES students(id)
 );
