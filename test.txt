@@ -1,0 +1,2 @@
+'C:/Users/usuario/Desktop/PROYECTOS2023/sql-from-zero-to-hero/00_create_database.sql'
+'C:/Users/usuario/Desktop/PROYECTOS2023/sql-from-zero-to-hero/01_create_teachers_table.sql'
